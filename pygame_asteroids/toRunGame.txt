@@ -1,0 +1,4 @@
+Run: 
+	python3 space_rocks
+
+On pygame_asteroids/ folder.
